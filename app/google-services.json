@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757992319612",
+    "firebase_url": "https://firestoremultipledocument.firebaseio.com",
+    "project_id": "firestoremultipledocument",
+    "storage_bucket": "firestoremultipledocument.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757992319612:android:46e91f97200a3de0f6f7f9",
+        "android_client_info": {
+          "package_name": "com.example.firestoremultipledocument"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757992319612-nf25kv0cs5dg9ivca5nasd80pu83uo9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestoremultipledocument",
+            "certificate_hash": "7d4d82e4ff219beef24c73e05f8b531fac4bb7ae"
+          }
+        },
+        {
+          "client_id": "757992319612-3pu9pavfil4ir88ab5sg834f8ju4sbj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuH7Urkw8lwgNg5KXwTtfhVlZunf0EU4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757992319612-3pu9pavfil4ir88ab5sg834f8ju4sbj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
