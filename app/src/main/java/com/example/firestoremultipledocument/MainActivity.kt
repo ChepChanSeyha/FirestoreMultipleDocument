@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity() {
 
                 val documentId = queryDocumentSnapshot.id
 
-                data += "ID: $documentId Title: $title\nDescription: $description\n\n"
+                data += "Id: $documentId \nTitle: $title\nDescription: $description\n\n"
             }
             viewData.text = data
         }
